@@ -1,0 +1,15 @@
+{
+  "name": "the20",
+  "version": "1.0.0",
+  "description": "The20 landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus Ganiyev",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1"
+  }
+}
